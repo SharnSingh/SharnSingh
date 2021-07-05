@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### Hi there 👋,
 I'm Sharn and I am a data scientist with a background in biostatistics. I have experience developing machine learning models, data engineering pipelines and working with healthcare, customer and financial data. 
 
-Skills: Python, R, SAS, SQL, 
+Skills: Python, R, SQL, NoSQL, AWS, Tableau, Spark
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Data Engineering Skills (Spark, Kafka) 
